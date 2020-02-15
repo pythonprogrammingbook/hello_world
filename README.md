@@ -1,5 +1,5 @@
 # 项目名称Hello_World
-![APM](https://img.shields.io/badge/License-MIT-brightgreen) ![APM](https://img.shields.io/badge/Version-v0.1-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)    ![Version](https://img.shields.io/badge/Version-v0.1-brightgreen)
 
 项目描述
 
